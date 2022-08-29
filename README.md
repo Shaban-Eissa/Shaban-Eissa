@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaban Eissa</h1>
 <h3 align="center">A react js frontend developer from egypt</h3>
 
-- 🌱 I’m currently learning **Next.js , GraphQL , GRQO , Recoil**
+- 🌱 I’m currently learning **Next.js , GraphQL , GROQ , Recoil**
 
 - 💬 Ask me about **react**
 
