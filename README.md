@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js , GraphQL , GROQ , Recoil**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react | typescript **
 
 - 📫 How to reach me https://www.linkedin.com/in/shaban-eissa-7161ba1a5
 
