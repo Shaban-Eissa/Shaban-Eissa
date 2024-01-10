@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shaban Eissa</h1>
 <h3 align="center">A React JS Frontend Developer From Egypt</h3>
 
-- 🌱 I’m currently learning **Next.js , GraphQL , Database , Recoil**
+- 🌱 I’m currently learning **Next.js , GraphQL , Database**
 
 - 💬 Ask me about **react | typescript **
 
 - 📫 How to reach me - https://www.linkedin.com/in/shaban-eissa
 
-- 📄 Know about my experiences - https://drive.google.com/file/d/1Qkpn-5I8MKQXSS6qu3znwpOD1iSzwO8J/view?usp=drive_link
-
+- 📄 Know about my experiences - https://drive.google.com/file/d/121gpEYbaxELvcw-dgBPs1Orqow5-DbQD/view?usp=drive_link
 
 
 <h3 align="left">Languages and Tools:</h3>
