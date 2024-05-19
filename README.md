@@ -3,7 +3,7 @@
 
 - 🌍  I'm based in Egypt
 - 👨‍💻 I’m currently working with **React, Next.js** 
-- 🌱 I’m currently learning **GraphQL , Database**
+- 🌱 I’m currently learning **GraphQL, React Native, Databases**
 - 📫 How to reach me shabaneissa767@gmail.com
 - 📄 Know about my experiences https://drive.google.com/file/d/121gpEYbaxELvcw-dgBPs1Orqow5-DbQD/view?usp=drive_link
 
